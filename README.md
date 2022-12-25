@@ -1,4 +1,4 @@
-# Asteroid Game Clone
+# 🚀 Asteroid Game Clone
 
 ## Instructions
 * Move with arrow keys and shoot with space bar
